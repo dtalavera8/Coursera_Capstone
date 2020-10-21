@@ -1,0 +1,18 @@
+\babel@toc {english}{}
+\contentsline {section}{\numberline {1}Introduction}{2}{section.1}%
+\contentsline {subsection}{\numberline {1.1}Problem Description}{2}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1.2}Description and use of data}{2}{subsection.1.2}%
+\contentsline {subsubsection}{\numberline {1.2.1}Data descriprion}{2}{subsubsection.1.2.1}%
+\contentsline {subsubsection}{\numberline {1.2.2}Data usage, assumptions and observations}{2}{subsubsection.1.2.2}%
+\contentsline {subsubsection}{\numberline {1.2.3}Methods - Oveerview}{3}{subsubsection.1.2.3}%
+\contentsline {section}{\numberline {2}Methodology}{3}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Obtaining the data}{3}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Exploratory Data Analysis}{3}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}Machine learning algorithms}{4}{subsection.2.3}%
+\contentsline {subsubsection}{\numberline {2.3.1}DBSCAN clustering}{4}{subsubsection.2.3.1}%
+\contentsline {subsubsection}{\numberline {2.3.2}Manual development of algorithm}{5}{subsubsection.2.3.2}%
+\contentsline {subsection}{\numberline {2.4}Post-Processing of clusters}{5}{subsection.2.4}%
+\contentsline {subsection}{\numberline {2.5}Final Cluster selection}{6}{subsection.2.5}%
+\contentsline {section}{\numberline {3}Results}{7}{section.3}%
+\contentsline {section}{\numberline {4}Discussion}{7}{section.4}%
+\contentsline {section}{\numberline {5}Conclusion}{7}{section.5}%
